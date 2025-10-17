@@ -3,9 +3,7 @@
 
 An intelligent debate system powered by Google Gemini AI that uses multiple specialized agents to provide dynamic, engaging debate experiences. Features include voice input, real-time argument analysis, strategic coaching, and comprehensive performance evaluation.
 
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## ✨ Features
 
